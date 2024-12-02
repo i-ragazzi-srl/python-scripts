@@ -5,9 +5,9 @@ A Python application to visualize shared expenses from a CSV file using stacked 
 ## Usage
 
 1. Run the script:
-    ```bash
-    python expense_plotter.py
-    ```
+```bash
+python expense_plotter.py
+```
 
 2. From the GUI:
     - Click "Select CSV File" to load your expense file
@@ -46,14 +46,14 @@ The CSV file must have the following format:
 If you encounter "tkinter not found" error:
 
 ### Ubuntu/Debian
-    ```bash
-    sudo apt-get install python3-tk
-    ```
+```bash
+sudo apt-get install python3-tk
+```
 
 ### Fedora
-    ```bash
-    sudo dnf install python3-tkinter
-    ```
+```bash
+sudo dnf install python3-tkinter
+```
 
 ### Windows
 Tkinter should be included in the standard Python installation.

@@ -48,7 +48,7 @@ Each script has its own README.md file in its directory with specific usage inst
 #### Splitwise Histograms
 - Location: `splitwise-histograms/`
 - Purpose: Visualize shared expenses from CSV files using stacked histogram plots
-- [Documentation](splitwise-histograms/README.md)
+- [Documentation](splitwise-istograms/README.md)
 
 ## Contributing
 
